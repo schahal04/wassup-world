@@ -1,0 +1,9 @@
+package practice;
+
+public class WassupWorld {
+
+	public static void main(String[] args)
+	{
+		System.out.println("Yo wassup World!");
+	}
+}
